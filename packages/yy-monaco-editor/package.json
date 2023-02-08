@@ -1,0 +1,15 @@
+{
+  "name": "yy-monaco-editor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "monaco-editor": "*"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
